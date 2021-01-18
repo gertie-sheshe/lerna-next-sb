@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div className={styles.container}>Page Two</div>;
+  return <div>Page Two</div>;
 }
